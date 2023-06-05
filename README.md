@@ -22,7 +22,7 @@ i)	#Selection Sort
 ```
 Program to sort the elements in the list using the Selection Sort algorithm.
 Developed by: your name: PRAVEEN D
-RegisterNumber: 22005917
+RegisterNumber: 212222240076
 '''
 def selection_sort(nums):
     for i in range(len(nums)):
@@ -39,7 +39,7 @@ ii)	#Insertion Sort
 ```
 Program to sort the elements in the list using the Insertion Sort algorithm.
 Developed by: your name: PRAVEEN D
-RegisterNumber: 22005917
+RegisterNumber: 212222240076
 '''
 def insertion_sort(nums):
     for i in range(1,len(nums)):
